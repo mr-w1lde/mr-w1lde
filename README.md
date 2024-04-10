@@ -1,8 +1,8 @@
 ### Hello! My name is Stanislav
 
-<img src="https://img.shields.io/badge/Location-Georgia/Tbilisi-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Backend-Java/Kotlin/Go-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Mobile-Kotlin/Flutter-blueviolet?style=flat-square"/> </br>
+<img src="https://img.shields.io/badge/Location-Spain/Valencia-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Backend-Java/Kotlin/Go-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Mobile-Kotlin/Flutter-blueviolet?style=flat-square"/> </br>
 
-👋 I'm mainly a Back-end developer, but sometime a little front-end, mobile developer and a little DevOps <br>
+👋 I'm mainly a Back-end developer, but sometimes a little front-end, mobile developer and a little DevOps <br>
 ❤️ Love making videogames, studing something new, etc. <br>
 📫 You can ask me anything in Telegram but I can answer a little slow sometimes. All my contacts bellow:
 
